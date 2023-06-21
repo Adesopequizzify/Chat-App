@@ -1,0 +1,36 @@
+[16-Jun-2023 06:07:58 UTC] PHP Warning:  Undefined array key "unique_id" in /home/quizwift/dev.quizzify.com.ng/users.php on line 25
+[16-Jun-2023 06:07:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/quizwift/dev.quizzify.com.ng/users.php:25
+Stack trace:
+#0 /home/quizwift/dev.quizzify.com.ng/users.php(25): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/quizwift/dev.quizzify.com.ng/users.php on line 25
+[16-Jun-2023 06:17:07 UTC] PHP Warning:  Undefined array key "unique_id" in /home/quizwift/dev.quizzify.com.ng/users.php on line 25
+[16-Jun-2023 06:17:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/quizwift/dev.quizzify.com.ng/users.php:25
+Stack trace:
+#0 /home/quizwift/dev.quizzify.com.ng/users.php(25): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/quizwift/dev.quizzify.com.ng/users.php on line 25
+[16-Jun-2023 06:32:30 UTC] PHP Warning:  Undefined array key "unique_id" in /home/quizwift/dev.quizzify.com.ng/users.php on line 440
+[16-Jun-2023 06:32:30 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/quizwift/dev.quizzify.com.ng/users.php:440
+Stack trace:
+#0 /home/quizwift/dev.quizzify.com.ng/users.php(440): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/quizwift/dev.quizzify.com.ng/users.php on line 440
+[16-Jun-2023 12:57:23 UTC] PHP Warning:  Undefined array key "unique_id" in /home/quizwift/dev.quizzify.com.ng/users.php on line 440
+[16-Jun-2023 12:57:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/quizwift/dev.quizzify.com.ng/users.php:440
+Stack trace:
+#0 /home/quizwift/dev.quizzify.com.ng/users.php(440): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/quizwift/dev.quizzify.com.ng/users.php on line 440
+[16-Jun-2023 13:00:34 UTC] PHP Warning:  Undefined array key "unique_id" in /home/quizwift/dev.quizzify.com.ng/users.php on line 440
+[16-Jun-2023 13:00:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/quizwift/dev.quizzify.com.ng/users.php:440
+Stack trace:
+#0 /home/quizwift/dev.quizzify.com.ng/users.php(440): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/quizwift/dev.quizzify.com.ng/users.php on line 440
+[17-Jun-2023 12:22:26 UTC] PHP Warning:  Undefined array key "unique_id" in /home/quizwift/dev.quizzify.com.ng/users.php on line 440
+[17-Jun-2023 12:22:26 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/quizwift/dev.quizzify.com.ng/users.php:440
+Stack trace:
+#0 /home/quizwift/dev.quizzify.com.ng/users.php(440): mysqli_query(Object(mysqli), 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/quizwift/dev.quizzify.com.ng/users.php on line 440
